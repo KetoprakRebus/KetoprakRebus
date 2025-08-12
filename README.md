@@ -83,7 +83,7 @@
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KetoprakRebus/KetoprakRebus/output/snake-dark.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/KetoprakRebus/KetoprakRebus/output/snake.svg" />
+ 
 </picture>
 
 
