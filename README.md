@@ -2,7 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<img align="right" height="150" src="assets/muscular-guy-sketch.gif" alt="Character muscular animation" />
+<img align="right" height="150" src="https://y-eowang.tumblr.com/post/1234567890/muscular-guy-shirt.gif" />
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Hengky%20Kurniawan" target="_blank">
