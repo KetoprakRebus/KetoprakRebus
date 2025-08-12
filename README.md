@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<img align="right" height="150" src="h[ttps://i.imgflip.com/65efzo.gif](https://id.pinterest.com/pin/922182461175201629/)"  />
+<img align="right" height="150" src="https://id.pinterest.com/pin/922182461175201629/"  />
 ###
 
 <div align="center">
