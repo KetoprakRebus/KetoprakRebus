@@ -3,7 +3,7 @@
 </div>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/Hengky%20Kurniawan" target="_blank">
