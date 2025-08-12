@@ -1,18 +1,21 @@
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      
+      - name: Get commit count this week
+        id: commits
+        run: echo "count=$(git log --since='7 days ago' --pretty=oneline | wc -l)" >> $GITHUB_OUTPUT
+
       - uses: Platane/snk@v3
         with:
           github_user_name: KetoprakRebus
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+            dist/snake-challenge.svg?color_snake=#ff0000&background=#000000
+
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
