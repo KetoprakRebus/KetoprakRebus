@@ -38,8 +38,8 @@
 
 <p align="left">
   I'm Hengky Kurniawan from Indonesia.<br><br>
-  - 🔭 I’m working as a Developer<br>
-  - 📚 I'm currently learning Cloud & Backend Development<br>
+  - 🔭 I am here as a student<br>
+  - 📚 I am currently studying coding sciences<br>
   - ⚡ In my free time I create content and explore new tech
 </p>
 
@@ -76,8 +76,3 @@
 </div>
 
 ###
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
