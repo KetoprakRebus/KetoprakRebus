@@ -76,8 +76,9 @@
 </div>
 
 ###
-###
+### 🐍 Snake Animation
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KetoprakRebus/KetoprakRebus/output/snake.svg" alt="Snake animation" />
-</div>
+![GitHub Snake Light](https://raw.githubusercontent.com/KetoprakRebus/KetoprakRebus/output/snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/KetoprakRebus/KetoprakRebus/output/snake-dark.svg)
+![GitHub Snake Challenge](https://raw.githubusercontent.com/KetoprakRebus/KetoprakRebus/output/snake-challenge.svg)
+
